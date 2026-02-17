@@ -4,7 +4,7 @@ Predict nickel (Ni) and cobalt (Co) grades in CMC from feed and process features
 
 ## Setup
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
