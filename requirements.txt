@@ -1,5 +1,6 @@
 # CMC Ni/Co prediction pipeline and model
 pandas>=2.0.0
+openpyxl>=3.1.0
 numpy>=1.24.0
 scipy>=1.10.0
 pyarrow>=14.0.0
